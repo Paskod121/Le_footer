@@ -74,7 +74,7 @@ Stylisation et interaction pour les liens des réseaux sociaux*/
     stroke: none !important;
     width: 20px;
     height: 20px;
-    background: remove !important;
+    background: transparent !important;
     
 }
 .social-link:hover .social-icon {

@@ -1,0 +1,48 @@
+[33mcommit ef53aacd0b9eff5de8e97c682f6d61edfb297c42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mPaskod2[m[33m)[m
+Author: PasKod <pascalsewonou2@gmail.com>
+Date:   Wed Mar 5 05:44:46 2025 +0000
+
+    Ajout du pied de page avec les informations de contact
+
+[33mcommit e1e07fca312744c3a6382e83308964dac19583cb[m[33m ([m[1;32mPaskod1[m[33m, [m[1;32mPaskod[m[33m)[m
+Author: PasKod <pascalsewonou2@gmail.com>
+Date:   Wed Mar 5 01:41:54 2025 +0000
+
+    J'ai ajouter quelques modification au css pour une reson de responsivité
+
+[33mcommit 41c7fcdd11e2773dd6152e6368397888f56cc97e[m
+Author: PasKod <pascalsewonou2@gmail.com>
+Date:   Tue Mar 4 20:55:03 2025 +0000
+
+    Modification a l'image de l'icone de footer
+
+[33mcommit b796b51b4cafea3ff9793770f2b3247e26a13d4e[m
+Merge: 1cf06f6 37bbf57
+Author: PasKod <pascalsewonou2@gmail.com>
+Date:   Tue Mar 4 19:52:06 2025 +0000
+
+    Résolution de la fusion en cours
+
+[33mcommit 1cf06f6eb547aa1270b8d333ca6a318b47679446[m[33m ([m[1;32mmaster[m[33m)[m
+Author: PasKod <pascalsewonou2@gmail.com>
+Date:   Tue Mar 4 18:54:45 2025 +0000
+
+    La premiere version du footer
+
+[33mcommit 37bbf5733dd6cb74b5db4797f1f118ced4cf7f5d[m
+Author: Singosirutonamikaze <yaodieudonnesingo60@gmail.com>
+Date:   Sun Feb 23 16:23:29 2025 +0000
+
+    Je viens de restructurer le dossier du site web
+
+[33mcommit 560c758d1701838802c65bfa8736d78164567860[m
+Author: Singosirutonamikaze <yaodieudonnesingo60@gmail.com>
+Date:   Mon Jan 13 12:54:33 2025 +0000
+
+    Implémentation des divers dossiers pour la création du site web de L'EPL
+
+[33mcommit 34bf83187bc377ce0714dfc8f799f2303fa97396[m
+Author: ASSOUN Akomagni Kodjovi Rodrigue <assounrodrigue5@gmail.com>
+Date:   Mon Jan 13 00:25:06 2025 +0000
+
+    Initial commit
