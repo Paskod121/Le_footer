@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let isScrollingDown = true;
     
     // Fonction pour vérifier la position de défilement
-    function checkScroll() {
+    function verifierDefilement() { 
         const scrollPosition = window.scrollY;
         const scrollThreshold = 300; // Hauteur de défilement à partir de laquelle le bouton apparaît
         
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Écouteur d'événement de défilement
-    window.addEventListener('scroll', checkScroll);
+    window.addEventListener('scroll', verifierDefilement); 
     
     // Fonctionnalité du bouton
     backToTopButton.addEventListener('click', function(e) {
